@@ -4,6 +4,9 @@ This code is from Chapter 4 and the challenges in the Ionic in Action book by Wi
 
 index html
 
+Firebase Key
+AIzaSyCn-NlvElrb3P0QJHpY-f6X1Q1rGSERHNo
+
 ```
 
 <!DOCTYPE html>
